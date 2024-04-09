@@ -1,4 +1,4 @@
-name: Output information
+name: Task 2 issue information
 on: [issues, workflow_dispatch]
 jobs:
   info:
